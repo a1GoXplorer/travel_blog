@@ -1,0 +1,19 @@
+{
+  "name": "travel_blog",
+  "version": "1.0.0",
+  "description": "Relearning express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a1GoXplorer/travel_blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a1GoXplorer/travel_blog/issues"
+  },
+  "homepage": "https://github.com/a1GoXplorer/travel_blog"
+}

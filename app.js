@@ -13,7 +13,15 @@ app.use(methodOverride("_method"));
 
 app.get('/', function(req, res) {
   res.render('site/home.ejs');
-})
+});
+
+app.get('/about', function(req, res) {
+  res.render('site/about.ejs');
+});
+
+app.get('/contact', function(req, res) {
+  res.render('site/contact.ejs');
+});
 
 
 app.listen(3000, function() {
